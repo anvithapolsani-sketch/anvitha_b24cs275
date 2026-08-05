@@ -6,7 +6,7 @@ console.log("=====================================");
 console.log("Welcome to Full Stack Development Laboratory");
 eventEmitter.on("StudentLogin",(name)=>{
     console.log("Student Login Event Triggered");
-    console.log("Sudent Name:","Gnapika");
+    console.log("Sudent Name:","Anvitha");
 });
 
 eventEmitter.on("StudentLogin",()=>{
